@@ -1,5 +1,8 @@
 # Telegram Spam Detection Bot
 
+**Objective**: _To reduce the number of emails that are not classified as spam, even though they are spam._
+**Reason**: _Users do not like receiving emails with information that is unnecessary for them._
+
 This bot detects whether a given text (e.g., from email) is spam.
 **Setup Instructions**
 1. Create a bot in Telegram
